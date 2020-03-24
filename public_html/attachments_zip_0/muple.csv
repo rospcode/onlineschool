@@ -1,0 +1,19 @@
+Batch Number,Type,Date Settled,Transaction Count,Batch Total,,,Month,Transaction Count,Batch Total
+15,Settlement,01 March 2020,1,17.00,,,Mar,66,799
+16,Settlement,02 March 2020,2,24.00
+17,Settlement,03 March 2020,6,83.00
+18,Settlement,04 March 2020,2,34.00
+19,Settlement,05 March 2020,7,88.00
+20,Settlement,06 March 2020,5,58.00
+21,Settlement,07 March 2020,2,26.00
+22,Settlement,08 March 2020,1,10.00
+23,Settlement,09 March 2020,2,22.00
+24,Settlement,10 March 2020,9,90.00
+25,Settlement,11 March 2020,6,66.00
+26,Settlement,12 March 2020,10,118.00
+27,Settlement,13 March 2020,4,60.00
+28,Settlement,14 March 2020,2,20.00
+29,Settlement,16 March 2020,1,17.00
+30,Settlement,17 March 2020,3,30.00
+31,Settlement,18 March 2020,3,36.00
+,,Total,66,799
